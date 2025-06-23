@@ -36,5 +36,4 @@
             @@@@@@@@@@         @@@@@@@@@@          
 </pre>
 </div>
-
-iOS Developer
+🍎 iOS Developer
